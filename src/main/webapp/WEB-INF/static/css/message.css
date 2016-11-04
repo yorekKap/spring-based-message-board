@@ -1,0 +1,16 @@
+.message
+{
+	margin: 20px 0;
+    padding: 20px;
+    border-left: 3px solid #eee;
+}
+
+.default-message
+{
+    background-color: #f4f8fa;
+    border-color: #5bc0de;
+}
+.default-message h4
+{
+    color: #5bc0de;
+}
